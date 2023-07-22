@@ -1,0 +1,8 @@
+# crear backend application
+
+npm init
+
+# intall dependencies
+
+npm i --save-dev babel-cli babel-preset-env babel-preset-stage-0 @types/node
+npm i --save apollo-server-express express graphql mongodb mongoose nodemon

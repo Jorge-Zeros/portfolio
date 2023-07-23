@@ -1,0 +1,7 @@
+# create react app
+
+npx create-react-app front --template typescript
+
+# install dependencies
+
+npm install @mui/material @emotion/react @emotion/styled
